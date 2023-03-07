@@ -1,4 +1,4 @@
-Algoritmo "testeVar"
+Algoritmo "testeEnquanto"
 
 Var
 i: inteiro
